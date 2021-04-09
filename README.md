@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/harshasridhar/klar-EDA.svg?branch=master)](https://travis-ci.org/harshasridhar/klar-EDA)
+[![CircleCI](https://circleci.com/gh/harshasridhar/klar-EDA/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/harshasridhar/klar-EDA/tree/circleci-project-setup)
 # klar-eda
 
 A python library for automated exploratory data analysis
